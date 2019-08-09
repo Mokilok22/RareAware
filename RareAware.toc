@@ -1,0 +1,7 @@
+## Interface: 11302
+## Title: RareAware
+## Notes: Displays detailed information about rare spawns on your world map.
+## Author: Mokilok
+## Version: 1.0
+
+RareAware.lua
