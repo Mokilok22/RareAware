@@ -1,6 +1,10 @@
 # RareAware
 Rare spawn addon for WoW Classic
 
+
+NOTE: If the addon will not load for you, it is likely you have installed it with the wrong folder name. Make sure the folder is named "RareAware" and not "RareAware-master".
+
+
 -- Current Functionality --
 This addon displays information on your map about rare spawns within the world and only works for WoW Classic. You will also be notified in chat when you are nearby a possible rare spawn.
 
